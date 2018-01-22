@@ -1,3 +1,6 @@
+
+A fork of the original npm package by rodhoward. This fork contains a fix for a pesky issue that the original author has not fixed--getting the path for the Sybase link JAR file correctly. All content below comes from the original version. 
+
 node-sybase
 ---------
 
